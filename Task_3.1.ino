@@ -4,8 +4,8 @@ const int LDRPin = A0;
 char ssid[] = "akki";     // WiFi SSID
 char pass[] = "12345678";
 
-unsigned long channelID = 2250464;         // Your ThingSpeak Channel ID
-const char *apiKey = "I7EA4016TQP1ROKD"; 
+unsigned long channelID = 2252227;         // Your ThingSpeak Channel ID
+const char *apiKey = "JPFIIN741GPNOS3G"; 
 WiFiClient client;
 
 void setup()
